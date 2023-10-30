@@ -4,3 +4,7 @@ enum class Color {
     orange,
     red
 };
+
+int main() {
+    return 0;
+}
